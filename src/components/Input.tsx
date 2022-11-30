@@ -1,3 +1,5 @@
+import '../styles/todoInput.css'
+
 type InputProps = {
   type: string;
   classNames: string;

@@ -1,0 +1,9 @@
+.todo--wrapper_input-buttton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo--wrapper_todo-list {
+    display: flex;
+    justify-content: space-between;
+}

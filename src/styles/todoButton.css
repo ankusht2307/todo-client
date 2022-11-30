@@ -1,0 +1,5 @@
+.todo--button_class,
+.todo--button_edit,
+.todo--button_delete {
+    cursor: pointer;
+}

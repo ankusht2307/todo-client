@@ -1,3 +1,5 @@
+import '../styles/todoButton.css';
+
 type ButtonProps = {
   name: string;
   onClick: React.MouseEventHandler<HTMLButtonElement>;

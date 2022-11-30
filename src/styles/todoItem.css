@@ -1,0 +1,8 @@
+.todo--wrapper_todo-list {
+    margin-top: 1rem;
+}
+
+.todo--wrapper_todo-list p {
+    width: 80%;
+    padding-left: 1rem;
+}
